@@ -5,3 +5,4 @@ export const NewPlace = () => {
     <h1>Hello new Palce!!...</h1>
   )
 }
+export default NewPlace;
